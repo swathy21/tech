@@ -1,2 +1,2 @@
-st=input()
-print(st)
+ps=input()
+print(ps)
